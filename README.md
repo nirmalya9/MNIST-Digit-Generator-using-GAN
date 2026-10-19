@@ -139,4 +139,4 @@ After training, a 4×4 grid of generated handwritten digits is displayed.
 
 ## License
 
-This project is licensed under the MIT License. Feel free to use and modify it.
+This project is licensed under the [MIT License](LICENSE).
